@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+}
+
+.menu-item {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #85b7e9;
+  padding: 10px;
+}
+
+.menu-item h3 {
+  margin: 0;
+}
+
+.menu-item p {
+  margin: 0;
+  color: #d61a1a;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #cdf2a8;
+  color: rgb(219, 155, 223);
+  border: none;
+  cursor: pointer;
+}
